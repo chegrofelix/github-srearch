@@ -1,0 +1,15 @@
+.header2020 {
+    background-color: #03506f;
+    height: 100vh;
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+.welcome {
+    top: 50%;
+    left: 38%;
+    text-align: center;
+    color:white;
+}
+.container-fluid {
+    background-color: #03506f;
+}
