@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
+The project was aboout creating an application that enables users to search for their repos using their github usernames.
+
+## Author information
+
+Name : Felix Chegero
+
+Proffesion : Student
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -25,3 +34,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Contact information
+
+Phone : +254741906738
+
+Email : chegerofelix@gmail.com
+
+## Copyright and Lisence Information
+
+Copyright issue is of 2021 when the application was build.
+
+The application uses open source MIT lisence.
