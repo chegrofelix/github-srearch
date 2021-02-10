@@ -27,4 +27,11 @@ body {
     background-color: #433520;
     color: #00917c;
 }
+h3 {
+    font-family: monospace;
+    font-size: 50px;
+}
+h3:hover {
+    color: yellow;
+}
 
